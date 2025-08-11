@@ -9,8 +9,8 @@
 
 - You can check my other profiles:
 
-<a href = "https://discordapp.com/users/412318343819952129" target="_blank" style="display:inline-block; padding:10px 20px; background-color:#4CAF50; color:white; text-decoration:none; border-radius:8px;">Discord</a>
-<a href = "https://www.linkedin.com/in/andré-emygdio-ferreira-46bb32219">LinkedIn</a>
+<a href = "https://discordapp.com/users/412318343819952129" target="_blank">Discord</a>
+<a href = "https://www.linkedin.com/in/andré-emygdio-ferreira-46bb32219" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"><LinkedIn</a>
 
 
 
