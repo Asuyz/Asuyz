@@ -3,9 +3,9 @@ $\color{Orange}\Huge{\textbf{Welcome to my Git profile}}$
 ![Uncanny Cat](https://media.tenor.com/Oee1T9EpfHwAAAAi/uncanny-cat-golf-peak.gif)
 
 
-## You can call me **Asuyz** or **André**
+$\color{Orange}\Huge{\textbf{You can call me Asu or André}}$
 
-- You can check my other profiles:
+$\color{Orange}\Huge{\textbf{My other profiles:}}$
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/andré-emygdio-ferreira-46bb32219)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](https://discordapp.com/users/412318343819952129)
