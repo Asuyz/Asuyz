@@ -1,4 +1,4 @@
-# ***Welcome mo my*** $\color{Aqua}{\textbf{GitHub profile}}$ 😃👋
+# ***Welcome to my*** $\color{Aqua}{\textbf{GitHub profile}}$ 😃👋
   
 ![Uncanny Cat](https://media.tenor.com/Oee1T9EpfHwAAAAi/uncanny-cat-golf-peak.gif)
 
@@ -16,6 +16,10 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
+
+### **Frameworks**:
+
+[![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
 
 ### **Code Editors**: 💻
 
