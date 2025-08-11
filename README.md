@@ -1,4 +1,4 @@
-<code style="color : aqua">Welcome to my Git profile</code>
+$\color{Orange}\Teste{\textbf{Teste}}$
   
 ![Uncanny Cat](https://media.tenor.com/Oee1T9EpfHwAAAAi/uncanny-cat-golf-peak.gif)
 
