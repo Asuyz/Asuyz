@@ -1,4 +1,4 @@
-# <span style="color:red">Welcome to my **Git** profile</span>
+#<span style="color:red">Welcome to my **Git** profile</span>
 <div>
   
 ![Uncanny Cat](https://media.tenor.com/Oee1T9EpfHwAAAAi/uncanny-cat-golf-peak.gif)
