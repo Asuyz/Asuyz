@@ -1,9 +1,8 @@
-$\color{Orange}\Huge{\textbf{Welcome to my Git profile}}$
+# Welcome to my $\color{Orange}\Normal{\textbf{Git}}$ #profile
   
 ![Uncanny Cat](https://media.tenor.com/Oee1T9EpfHwAAAAi/uncanny-cat-golf-peak.gif)
 
-
-# You can call me $\color{Orange}\Huge{\textbf{Asu/André}}$
+# You can call me $\color{Orange}\Normal{\textbf{Asu/André}}$
 
 <div>
   
