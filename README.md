@@ -3,7 +3,7 @@
 ![Uncanny Cat](https://media.tenor.com/Oee1T9EpfHwAAAAi/uncanny-cat-golf-peak.gif)
 
 ## ***You can call me by:*** $\color{Aqua}{\textbf{Asu or André}}$ 
-- 🇧🇷 :br:
+- 🇧🇷
 - I speak English and Brazilian Portuguese.
 
 ### ***My Other Profiles***: 📧
@@ -21,6 +21,12 @@
 
 [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)](#)
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
+
+<div>
+<a href="https://github.com/Asuyz">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asuyz&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Asuyz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
 
 
