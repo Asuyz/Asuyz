@@ -33,6 +33,8 @@
 </div>
 
 
+![Snake animation](https://github.com/Asuyz/Asuyz/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
