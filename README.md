@@ -1,5 +1,9 @@
-# Welcome to my **git** profile 
-## you can call me **Asuyz** or **André**
+# <span style="color:red">Welcome to **Git**</span>
+<div>
+<img scr="<img width="486" height="189" alt="image" src="https://github.com/user-attachments/assets/73891202-af3f-4f21-9c88-eea3fe962187" />
+> 
+</div>
+## You can call me **Asuyz** or **André**
 
 <!--
 **Asuyz/Asuyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
