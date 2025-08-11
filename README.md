@@ -7,6 +7,13 @@
 
 ## You can call me **Asuyz** or **André**
 
+- You can check my other profiles:
+
+<a href = "https://discordapp.com/users/412318343819952129">Discord</a>
+<a href = "https://www.linkedin.com/in/andré-emygdio-ferreira-46bb32219">LinkedIn</a>
+
+
+
 
 
 <!--
