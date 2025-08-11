@@ -1,6 +1,6 @@
 # <span style="color:red">Welcome to my **Git** profile</span>
 <div>
-<img scr ="https://media.tenor.com/Oee1T9EpfHwAAAAi/uncanny-cat-golf-peak.gif">
+<img scr ="https://media.tenor.com/Oee1T9EpfHwAAAAi/uncanny-cat-golf-peak.gif" width="300">
 </div>
 
 ## You can call me **Asuyz** or **André**
