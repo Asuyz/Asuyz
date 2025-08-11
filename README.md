@@ -1,16 +1,20 @@
-# ***WELCOME TO MY*** $\color{Aqua}\Large{\textbf{GIT}}$ ⚡
+# ***Welcome mo my*** $\color{Aqua}{\textbf{GitHub profile}}$ 👋
   
 ![Uncanny Cat](https://media.tenor.com/Oee1T9EpfHwAAAAi/uncanny-cat-golf-peak.gif)
 
-# ***YOU CAN CALL ME*** $\color{Aqua}\Large{\textbf{ASU/ANDRÉ}}$
+# ***You can call me by:*** $\color{Aqua}{\textbf{Asu or André}}$
 
-<div>
-  
-</div>
-
-# ***MY OTHER PROFILES: ***
+# ***My Other Profiles***:
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/andré-emygdio-ferreira-46bb32219)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](https://discordapp.com/users/412318343819952129)
+
+# **I'm Currently learning: 📘
+[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
+[![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
+
 
 
 
