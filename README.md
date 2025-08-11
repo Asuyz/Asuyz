@@ -1,8 +1,8 @@
-# <span style="color:red">Welcome to **Git**</span>
+# <span style="color:red">Welcome to my **Git** profile</span>
 <div>
-<img scr="<img width="486" height="189" alt="image" src="https://github.com/user-attachments/assets/73891202-af3f-4f21-9c88-eea3fe962187" />
-> 
+<img scr ="https://tenor.com/pt-BR/view/uncanny-cat-golf-peak-rank-uncanny-cat-gif-4172502934198254716">
 </div>
+
 ## You can call me **Asuyz** or **André**
 
 <!--
