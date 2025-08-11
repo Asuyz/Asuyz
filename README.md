@@ -1,8 +1,13 @@
 # <span style="color:red">Welcome to my **Git** profile</span>
 <div>
+  
 ![Uncanny Cat](https://media.tenor.com/Oee1T9EpfHwAAAAi/uncanny-cat-golf-peak.gif)
+
 </div>
+
 ## You can call me **Asuyz** or **André**
+
+
 
 <!--
 **Asuyz/Asuyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
