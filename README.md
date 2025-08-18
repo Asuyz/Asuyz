@@ -4,8 +4,7 @@
 
 ## ***You can call me by:*** $\color{Aqua}{\textbf{Asu or André}}$ 
 - 🇧🇷
-- I speak English and Brazilian Portuguese.
-
+  
 ### ***My Other Profiles***: 📧
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/andré-emygdio-ferreira-46bb32219)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](https://discordapp.com/users/412318343819952129)
@@ -20,6 +19,8 @@
 ### **Frameworks**:
 
 [![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
+[![React](https://img.shields.io/badge/React-6DA55F?logo=React&logoColor=white)](#)
+[![Vite](https://img.shields.io/badge/Vite-6DA55F?logo=Vite&logoColor=white)](#)
 
 ### **Code Editors**: 💻
 
