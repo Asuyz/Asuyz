@@ -8,6 +8,8 @@
 
 <br clear="both">
 
+<br>
+
 <p align="left">My name is André, nice to meet you! I started using and learning linux as my hobby and now im studying to be a DevOps Engineer.</p>
 
 ###
